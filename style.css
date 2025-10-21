@@ -129,10 +129,10 @@ button:active {
   opacity: 0.5;
 }
 .warningmsg {
-  font-weight: 100;
+  font-weight: 400;
   font-size: 12px;
   justify-content: center;
-  color: hsl(0, 71%, 35%);
+  color: hsl(0, 92%, 63%);
 }
 
 .error {
